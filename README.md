@@ -48,3 +48,16 @@ run the init_setup.sh file,it will run the all above files
 $ bash init_setup.sh
 it will install the all dependencies libraries in local env.
 ```
+
+### Workflow
+```
+1.reserach/trils
+2.config.yaml
+3.entity
+4.component
+5.pipeline
+6.training
+7.predeiction
+8.test your package
+9.dvc for the reprodcuing the pipeline
+```
