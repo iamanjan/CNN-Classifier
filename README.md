@@ -36,4 +36,14 @@ to split the path and file at python terminal
 >>> os.path.split("z.txt")
 ('', 'z.txt')
 >>>
+
+write code for setup.py and run it
+```
+$python setup.py
+```
+write code for setup.py,setup.cgg,requiremnts.txt,requirements_dev.txt,pyproject.toml,tox.ini, and init_setup.sh.
+
+run the init_setup.sh file,it will run the all above files
+```
+$ bash init_setup.sh
 ```
