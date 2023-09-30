@@ -10,6 +10,7 @@ AUTHOR_NAME='anjan'
 SRC_REPO='CLASSIFIER'
 AUTHOR_EMAIL='anjan@outlook.in'
 
+
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
