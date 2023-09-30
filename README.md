@@ -46,4 +46,5 @@ write code for setup.py,setup.cgg,requiremnts.txt,requirements_dev.txt,pyproject
 run the init_setup.sh file,it will run the all above files
 ```
 $ bash init_setup.sh
+it will install the all dependencies libraries in local env.
 ```
