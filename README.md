@@ -48,6 +48,20 @@ run the init_setup.sh file,it will run the all above files
 $ bash init_setup.sh
 it will install the all dependencies libraries in local env.
 ```
+next create ,write code for 4 files and under src/components like 
+```
+stage_01_data_ingestion.py
+stage_02_prepare_base_model.py
+stage_03_train.py
+stage_04_evaluation.py
+```
+write code at data_ingestion and then create logger file at utils.py under utils folder for dataingestion.py
+
+create ,write a code at config_entity.py file under entity folder 
+
+write code at trails.py under research folder
+
+create,write code for data_ingestion.file, and run ,check it whether code is working or not before u run data_ingestion file under src/components/data-ingestion.py  and pipeline/data_ingestion.py file
 
 ### Workflow
 ```
